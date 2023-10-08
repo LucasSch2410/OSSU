@@ -18,8 +18,8 @@ https://cs50.harvard.edu/x/2023/notes/1/
 - Compiler
     
     The compiler transforms de source code into the machine code, that works with de binary system.
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7951f31a-9e83-4a4e-ba8c-d848f0871260/827e4b6a-ab91-4720-98b1-c4623f622ae1/Untitled.png)
+
+    ![Untitled](https://github.com/LucasSch2410/OSSU/assets/45702317/e0d7291b-6746-4993-8372-1cf65ab41d31)
     
 - Correctness, design, style - Principles
     - Correctness - does the code run as intended?
@@ -129,14 +129,14 @@ https://cs50.harvard.edu/x/2023/notes/1/
     Useful link: https://www3.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html
     
     It’s where you want to use more bits than you have available. The biggest positive number with 32 bits that can be represented is 2147483647. More numbers will overflow because are going to run out of bits and return to the initial binary value. For example when a computer with 3 bits tries to run the number 8 in binary:
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7951f31a-9e83-4a4e-ba8c-d848f0871260/e7294ce2-76cf-4367-80d5-4c9ee9ee9d75/Untitled.png)
+  
+    ![binary-overflow](https://github.com/LucasSch2410/OSSU/assets/45702317/29396117-3b93-4dda-9c75-6e77607fe53b)
     
     - truncation and type casting
         
         It’s when you truncate the decimals of a floating-point value. It’s necessary to explicitly convert the value into a float format. (**type casting**):
-        
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7951f31a-9e83-4a4e-ba8c-d848f0871260/f66724a9-5257-4d05-ad51-413b7227e4a2/Untitled.png)
+      
+        ![truncation](https://github.com/LucasSch2410/OSSU/assets/45702317/8e840793-ff16-4798-ba29-8486d1b8f04d)
         
     - floating-point imprecision
         
