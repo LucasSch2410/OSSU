@@ -13,6 +13,8 @@
 
 https://cs50.harvard.edu/x/2023/notes/1/
 
+## Content 
+
 - Compiler
     
     The compiler transforms de source code into the machine code, that works with de binary system.
