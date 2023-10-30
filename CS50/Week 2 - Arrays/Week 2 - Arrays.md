@@ -14,6 +14,8 @@ Date: October 22, 2023
 
 [Lecture 2 - CS50x 2023](https://cs50.harvard.edu/x/2023/notes/2/)
 
+# Content
+
 - compiling
     - preprocessing
         
